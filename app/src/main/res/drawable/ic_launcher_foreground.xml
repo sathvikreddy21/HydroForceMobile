@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Beautiful bold stylized water droplet centered in 24x24 canvas -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M12,2C11.5,2 10.9,2.3 10.4,2.9C8.3,5.5 4,11.2 4,14C4,18.4 7.6,22 12,22C16.4,22 20,18.4 20,14C20,11.2 15.7,5.5 13.6,2.9C13.1,2.3 12.5,2 12,2ZM12,4C13.1,5.5 18,11.5 18,14C18,17.3 15.3,20 12,20C8.7,20 6,17.3 6,14C6,11.5 10.9,5.5 12,4Z" />
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M12,6C11.1,7.2 8,11.8 8,14C8,16.2 9.8,18 12,18C12,18 13.5,14 12,6Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "HydroForce",
+  "description": "Smart full-stack water reminder app with camera verification and AI detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
